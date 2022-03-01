@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "test-practice",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhary-Anne/testing-practice.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Dhary-Anne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhary-Anne/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Dhary-Anne/testing-practice#readme"
+}
